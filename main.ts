@@ -4,6 +4,7 @@ let primes = []
 for (let _ = 0; _ < limit; _++) {
     primes.push(1)
 }
+//yolo
 primes[0] = 0
 primes[1] = 0
 for (let i = 0; i < primes.length; i++) {
